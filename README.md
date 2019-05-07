@@ -8,4 +8,4 @@
 
 It's sunny today. I plan to get food with my friends.
 
-However, sadly, the food refused us to eat.
+However, sadly, the food refused to be eaten by us.
